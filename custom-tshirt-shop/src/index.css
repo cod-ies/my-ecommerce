@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles for react-slick */
+.slick-list {
+  margin: 0 -1rem;
+}
+.slick-slide > div {
+  padding: 0 1rem;
+}
